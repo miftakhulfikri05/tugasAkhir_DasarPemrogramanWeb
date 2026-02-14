@@ -110,7 +110,7 @@ footer {
     margin-top: 40px;
     padding: 25px;
     background-color: #f4f6f5;
-    border-top: 3px solid #2e7d32;
+    border-top: 3px solid rgba(17, 34, 45, 0.824);
     text-align: center;
     flex-basis: 100%;
     width: 100%;
@@ -132,7 +132,7 @@ footer {
 
 .contact-link a {
     padding: 10px 16px;
-    background-color: #2e7d32;
+    background-color: rgba(17, 34, 45, 0.824);
     color: white;
     text-decoration: none;
     border-radius: 6px;
@@ -141,6 +141,5 @@ footer {
 }
 
 .contact-link a:hover {
-    background-color: #1b5e20;
     font-weight: bold;
 }
